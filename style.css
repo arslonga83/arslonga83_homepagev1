@@ -1,5 +1,5 @@
 body {
-  background: url(./markus-spiske-Skf7HxARcoc-unsplash.jpg) no-repeat center center fixed;
+  background: url(./media/markus-spiske-Skf7HxARcoc-unsplash.jpg) no-repeat center center fixed;
   background-size: cover;
   height: 100%;
   width: 100%;
@@ -37,19 +37,19 @@ h1 {
   justify-content: center;
   align-items: center;
   height: 300px;
-  width: 300px;
+  width: 400px;
   border: 2px solid black;
 }
 
 img {
-  height: 150px;
+  height: 100px;
   width: 200px;
   margin: 16px;
   border: 5px solid black;
 }
 
 p {
-  max-width: 200px;
+  max-width: 300px;
   text-align: center;
 }
 
